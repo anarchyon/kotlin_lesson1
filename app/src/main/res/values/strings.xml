@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">Kotlin_lesson1</string>
     <string name="execute">Запустить</string>
+    <string name="et_number1_hint">Первое число</string>
+    <string name="et_number2_hint">Второе число</string>
+    <string name="button_sum">+</string>
+    <string name="tv_result_hint">Ответ</string>
+    <string name="multiplication">x</string>
+    <string name="substraction">-</string>
+    <string name="division">:</string>
 </resources>
