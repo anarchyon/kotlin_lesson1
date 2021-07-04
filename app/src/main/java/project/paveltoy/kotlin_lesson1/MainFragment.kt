@@ -1,4 +1,7 @@
 package project.paveltoy.kotlin_lesson1
 
-class MainFragment {
+import androidx.fragment.app.Fragment
+
+class MainFragment : Fragment() {
+
 }
