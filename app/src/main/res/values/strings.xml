@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Kotlin_lesson1</string>
+    <string name="execute">Запустить</string>
 </resources>
