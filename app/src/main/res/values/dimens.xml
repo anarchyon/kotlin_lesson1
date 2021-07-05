@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="large_margin">50dp</dimen>
+    <dimen name="padding_in_fragment">25dp</dimen>
+    <dimen name="text_view_result_width">100dp</dimen>
+    <dimen name="result_text_size">20sp</dimen>
+</resources>

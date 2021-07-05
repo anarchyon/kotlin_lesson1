@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">Kotlin_lesson1</string>
+    <string name="execute">Запустить</string>
+    <string name="et_number1_hint">Первое число</string>
+    <string name="et_number2_hint">Второе число</string>
+    <string name="button_sum">+</string>
+    <string name="tv_result_hint">Ответ</string>
+    <string name="multiplication">x</string>
+    <string name="substraction">-</string>
+    <string name="division">:</string>
+    <string name="et_number_hint">Введите число</string>
+    <string name="rb_sum_members_text">Сумма членов последовательности</string>
+    <string name="rb_factorial_text">Факториал числа</string>
+    <string name="rb_random_text">Случайное число из последовательности</string>
+    <string name="tv_fragment2_result">Результат</string>
+    <string name="button_fragment2_execute_text">Вычислить</string>
+    <string name="factorial_remark">Число для расчета факториала ограничено числом 25 в тестовых целях</string>
+    <string-array name="fragment_list">
+        <item>Фрагмент1</item>
+        <item>Фрагмент2</item>
+    </string-array>
 </resources>
